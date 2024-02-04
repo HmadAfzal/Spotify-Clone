@@ -19,8 +19,6 @@ Welcome to the Spotify Clone project! 🎧 This project is a simple music player
 
 https://github.com/HmadAfzal/Spotify-Clone.git
 
-
-
 ## Technologies Used
 
 - HTML5
