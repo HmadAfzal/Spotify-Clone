@@ -11,7 +11,7 @@ Welcome to the Spotify Clone project! 🎧 This project is a simple music player
 
 ## Screenshots
 
-![Spotify Clone](Spotify-Clone_SS.png)
+![Spotify Clone](Spotify-Clone/Spotify-Clone-SS.PNG)
 
 ## Getting Started
 
