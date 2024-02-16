@@ -11,7 +11,7 @@ Welcome to the Spotify Clone project! 🎧 This project is a simple music player
 
 ## Screenshots
 
-![Spotify Clone](Spotify-Clone/Spotify-Clone-SS.PNG)
+![Spotify Clone](/Spotify-Clone-SS.PNG)
 
 ## Getting Started
 
@@ -26,7 +26,6 @@ https://github.com/HmadAfzal/Spotify-Clone.git
 - JavaScript
 
 
-Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 
